@@ -75,22 +75,4 @@ public class Student {
 		finalScore = (int)(0.3*mid + 0.3*finalExam + 0.3*assignment + 0.1*attendance);
 		return finalScore;
 	}
-	
-//	@Override
-//	public String toString() {
-//	    return String.format("ID: %d | Name: %s | Mid: %d | Final: %d | Assignment: %d | Attendance: %d | Final Score: %d",
-//	        id, name, mid, finalExam, assignment, attendance, finalScore);
-//	}
-//	public void printAllScores() {
-//        System.out.printf("ID: %d | Mid: %d | Final: %d | Assignment: %d | Attendance: %d\n",
-//                id, mid, finalExam, assignment, attendance);
-//    }
-//
-//    public void printFinalScore() {
-//        System.out.printf("ID: %d | Final Score: %d\n", id, finalScore);
-//    }
-//
-//    public void printRank() {
-//        System.out.printf("ID: %d | Final Score: %d | Rank: %d\n", id, finalScore, rank);
-//    }
 }
