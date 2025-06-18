@@ -1,0 +1,10 @@
+ID: 1 | Name: 유재석 | Mid: 88 | Final: 90 | Assignment: 85 | Attendance: 100 | Final Score: 88
+ID: 2 | Name: 박지성 | Mid: 92 | Final: 94 | Assignment: 97 | Attendance: 100 | Final Score: 94
+ID: 3 | Name: 손흥민 | Mid: 85 | Final: 87 | Assignment: 89 | Attendance: 90 | Final Score: 87
+ID: 4 | Name: 차범근 | Mid: 95 | Final: 96 | Assignment: 94 | Attendance: 100 | Final Score: 95
+ID: 5 | Name: 이효리 | Mid: 90 | Final: 89 | Assignment: 88 | Attendance: 95 | Final Score: 89
+ID: 6 | Name: 이재용 | Mid: 82 | Final: 84 | Assignment: 80 | Attendance: 85 | Final Score: 82
+ID: 7 | Name: 김한수 | Mid: 91 | Final: 93 | Assignment: 90 | Attendance: 100 | Final Score: 92
+ID: 8 | Name: 이건희 | Mid: 87 | Final: 85 | Assignment: 83 | Attendance: 90 | Final Score: 85
+ID: 9 | Name: 김연아 | Mid: 93 | Final: 95 | Assignment: 92 | Attendance: 100 | Final Score: 94
+ID: 10 | Name: 송강호 | Mid: 86 | Final: 88 | Assignment: 87 | Attendance: 95 | Final Score: 87
