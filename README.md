@@ -1,1 +1,4 @@
 # JavaProgrammingProject
+
+# 소프트웨어학과 32201238 김한수
+# 소스코드는 src 안에 있습니다
